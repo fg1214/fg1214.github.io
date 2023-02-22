@@ -3,9 +3,18 @@
         <title>fg1214</title>
         <link>/en/</link>
         <description>fg1214</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 01 Dec 2022 14:18:13 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 21 Feb 2023 21:07:19 &#43;0800</lastBuildDate>
             <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Principles</title>
+    <link>/en/principles/</link>
+    <pubDate>Tue, 21 Feb 2023 21:07:19 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/en/principles/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/https:/doraemonj.github.io/pics/principles.png" referrerpolicy="no-referrer">
+            </div>Life and Work]]></description>
+</item><item>
     <title>Dopamine Nation</title>
     <link>/en/j30_dopamine_nation/</link>
     <pubDate>Thu, 01 Dec 2022 14:18:13 &#43;0800</pubDate>
@@ -76,12 +85,5 @@
     <author>Author</author>
     <guid>/en/an_essay_concerning_human_understanding/</guid>
     <description><![CDATA[人类理解论]]></description>
-</item><item>
-    <title>The Discovery of society</title>
-    <link>/en/the_discovery_of_society/</link>
-    <pubDate>Wed, 06 Jul 2022 18:03:18 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>/en/the_discovery_of_society/</guid>
-    <description><![CDATA[社会的发现]]></description>
 </item></channel>
 </rss>
