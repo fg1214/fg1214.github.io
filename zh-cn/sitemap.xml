@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/categories/</loc><lastmod>2022-12-01T13:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/categories/</loc><lastmod>2023-03-22T19:19:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/en/categories/"
@@ -11,7 +11,7 @@
                     hreflang="zh-cn"
                     href="/categories/"
                     /></url><url>
-            <loc>/</loc><lastmod>2022-12-01T13:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/</loc><lastmod>2023-03-22T19:19:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/en/"
@@ -20,6 +20,27 @@
                     hreflang="zh-cn"
                     href="/"
                     /></url><url>
+            <loc>/posts/</loc><lastmod>2023-03-22T19:19:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/en/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/posts/"
+                    /></url><url>
+            <loc>/tags/</loc><lastmod>2023-03-22T19:19:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/en/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/tags/"
+                    /></url><url>
+            <loc>/tags/%E5%9B%AD%E4%B8%81%E4%B8%8E%E6%9C%A8%E5%8C%A0/</loc><lastmod>2023-03-22T19:19:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/categories/%E5%9B%AD%E4%B8%81%E4%B8%8E%E6%9C%A8%E5%8C%A0/</loc><lastmod>2023-03-22T19:19:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/the_gardener_and_the_carpenter/</loc><lastmod>2023-03-22T19:19:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/tags/libmind.com/</loc><lastmod>2022-12-01T13:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -37,24 +58,6 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="/categories/libmind.com/"
-                    /></url><url>
-            <loc>/posts/</loc><lastmod>2022-12-01T13:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="/en/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="/posts/"
-                    /></url><url>
-            <loc>/tags/</loc><lastmod>2022-12-01T13:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="/en/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="/tags/"
                     /></url><url>
             <loc>/j30_dopamine_nation/</loc><lastmod>2022-12-01T13:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"

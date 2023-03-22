@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/en/categories/</loc><lastmod>2023-02-21T21:07:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/en/categories/</loc><lastmod>2023-02-21T21:07:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/categories/"
@@ -11,7 +11,7 @@
                     hreflang="en"
                     href="/en/categories/"
                     /></url><url>
-            <loc>/en/</loc><lastmod>2023-02-21T21:07:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/en/</loc><lastmod>2023-02-21T21:07:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/"
@@ -20,7 +20,7 @@
                     hreflang="en"
                     href="/en/"
                     /></url><url>
-            <loc>/en/posts/</loc><lastmod>2023-02-21T21:07:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/en/posts/</loc><lastmod>2023-02-21T21:07:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/posts/"
@@ -29,10 +29,10 @@
                     hreflang="en"
                     href="/en/posts/"
                     /></url><url>
-            <loc>/en/tags/principles/</loc><lastmod>2023-02-21T21:07:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>/en/categories/principles/</loc><lastmod>2023-02-21T21:07:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>/en/principles/</loc><lastmod>2023-02-21T21:07:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>/en/tags/</loc><lastmod>2023-02-21T21:07:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/en/tags/principles/</loc><lastmod>2023-02-21T21:07:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>/en/categories/principles/</loc><lastmod>2023-02-21T21:07:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>/en/principles/</loc><lastmod>2023-02-21T21:07:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>/en/tags/</loc><lastmod>2023-02-21T21:07:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/tags/"
